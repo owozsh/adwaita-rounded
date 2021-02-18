@@ -9,5 +9,7 @@ Just a patch to make the bottom corners rounded. (and add some padding to the gn
 Just run the install.sh script
 
 ```
+git clone https://github.com/owozsh/adwaita-rounded.git
+cd adwaita-rounded
 ./install.sh
 ```
