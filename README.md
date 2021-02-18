@@ -4,6 +4,10 @@ Just a patch to make the bottom corners rounded. (and add some padding to the gn
 
 ![screenshot](./screenshot.png)
 
+### ATTENTION
+
+Tested only on Adwaita's light theme
+
 ### How to install
 
 Just run the install.sh script
