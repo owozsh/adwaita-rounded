@@ -24,7 +24,7 @@ window.nautilus-window {
 	border-radius: 0 0 7px 7px;
 }
 
-window.nautilus-window grid paned overlay notebook stack, window.nautilus-window grid paned overlay notebook {
+window.nautilus-window grid paned overlay notebook stack, window.nautilus-window grid paned overlay notebook, window.nautilus-window grid paned overlay scrolledwindow treeview {
 	border-radius: 0 0 7px 7px;
 }
 
