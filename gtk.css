@@ -1,0 +1,34 @@
+/*** TERMINAL ***/
+
+terminal-screen-container box {
+	padding: 30px;
+}
+
+terminal-window {
+	background-color: #2C2C2C;;
+	border-radius: 0 0 7px 7px;
+}
+
+terminal-window decoration {
+	border-radius: 7px;
+}
+
+/*** NAUTILUS ***/
+
+window.nautilus-window decoration {
+	border-radius: 7px;
+}
+
+window.nautilus-window {
+	background-color: #f9f9f8;
+	border-radius: 0 0 7px 7px;
+}
+
+window.nautilus-window grid paned overlay notebook stack, window.nautilus-window grid paned overlay notebook {
+	border-radius: 0 0 7px 7px;
+}
+
+window.nautilus-window grid paned box placessidebar {
+	background-color: rgba(0,0,0,0);
+	border-radius: 7px;
+}
