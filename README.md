@@ -2,7 +2,7 @@
 
 Just a patch to make the bottom corners rounded. (and add some padding to the gnome-terminal too ;).
 
-!(screenshot)[./screenshot.png]
+![screenshot](./screenshot.png)
 
 ### How to install
 
