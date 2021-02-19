@@ -20,7 +20,11 @@ window.nautilus-window decoration {
 }
 
 window.nautilus-window {
-	background-color: #f9f9f8;
+	border-radius: 0 0 7px 7px;
+}
+
+window.nautilus-window grid paned box placessidebar viewport list {
+	background-color: rgba(180, 180, 180, 0.05);
 	border-radius: 0 0 7px 7px;
 }
 
