@@ -15,11 +15,11 @@ terminal-window decoration {
 
 /*** NAUTILUS ***/
 
-window.nautilus-window decoration {
+window decoration {
 	border-radius: 8px;
 }
 
-window.nautilus-window {
+window {
 	border-radius: 0 0 8px 8px;
 }
 
@@ -34,5 +34,37 @@ window.nautilus-window grid paned overlay notebook stack, window.nautilus-window
 
 window.nautilus-window grid paned box placessidebar {
 	background-color: rgba(0,0,0,0);
+	border-radius: 8px;
+}
+
+/*** SETTINGS ***/
+
+leaflet box scrolledwindow, leaflet box scrolledwindow viewport stack list {
+	border-radius: 0 0 0 8px;
+}
+
+leaflet box scrolledwindow viewport stack list {
+	background-color: rgba(255, 255, 255, 0.0);
+}
+
+leaflet stack {
+	border-radius: 0 0 8px 0;
+}
+
+/*** TWEAKS ***/
+
+list.tweak-categories {
+	border-radius: 0 0 0 8px;
+}
+
+/*** EVINCE ***/
+
+evview, iconview {
+	border-radius: 0 0 8px 8px;
+}
+
+/*** APOSTROPHE ***/
+
+.apostrophe-window.focus {
 	border-radius: 8px;
 }
