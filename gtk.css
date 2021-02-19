@@ -68,3 +68,9 @@ evview, iconview {
 .apostrophe-window.focus {
 	border-radius: 8px;
 }
+
+/*** SIDEBAR LIST ***/
+
+list.sidebar {
+	border-radius: 0 0 0 8px;
+}
