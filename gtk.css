@@ -6,33 +6,33 @@ terminal-screen-container box {
 
 terminal-window {
 	background-color: #1e1e1e;
-	border-radius: 0 0 7px 7px;
+	border-radius: 0 0 8px 8px;
 }
 
 terminal-window decoration {
-	border-radius: 7px;
+	border-radius: 8px;
 }
 
 /*** NAUTILUS ***/
 
 window.nautilus-window decoration {
-	border-radius: 7px;
+	border-radius: 8px;
 }
 
 window.nautilus-window {
-	border-radius: 0 0 7px 7px;
+	border-radius: 0 0 8px 8px;
 }
 
 window.nautilus-window grid paned box placessidebar viewport list {
 	background-color: rgba(180, 180, 180, 0.05);
-	border-radius: 0 0 7px 7px;
+	border-radius: 0 0 8px 8px;
 }
 
 window.nautilus-window grid paned overlay notebook stack, window.nautilus-window grid paned overlay notebook, window.nautilus-window grid paned overlay scrolledwindow treeview {
-	border-radius: 0 0 7px 7px;
+	border-radius: 0 0 8px 8px;
 }
 
 window.nautilus-window grid paned box placessidebar {
 	background-color: rgba(0,0,0,0);
-	border-radius: 7px;
+	border-radius: 8px;
 }
