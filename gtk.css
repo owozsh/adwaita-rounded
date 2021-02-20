@@ -13,6 +13,10 @@ terminal-window decoration {
 	border-radius: 8px;
 }
 
+terminal-window stack {
+	background: none;
+}
+
 /*** NAUTILUS ***/
 
 window decoration {
